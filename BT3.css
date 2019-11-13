@@ -1,0 +1,11 @@
+.ima1{
+	position: relative;
+}
+.ima2{
+	width: 100px;
+	height: 100px;
+	border: 10px solid white;
+	position: absolute;
+	top: 41%;
+	left: 35%;
+}

@@ -1,0 +1,18 @@
+.cardd{
+	width: 90%;
+	margin-left: 5%;
+	background: rgb(231,84,244);
+    background: linear-gradient(90deg, rgba(231,84,244,1) 28%, rgba(169,34,175,1) 54%, rgba(22,130,186,1) 100%);
+	position: absolute;
+	top: -1.2rem;
+}
+.card{
+	position: relative;
+}
+.box{
+	width: 90%;
+	margin-left: 5%;
+	padding-top: 160px;
+	padding-bottom: 45px;
+	text-align: center;
+}
